@@ -64,7 +64,8 @@ h2{
 width:40%;
 margin-bottom: 200px;
 margin-left:70px;
-padding:25px;
+padding:10px;
+height: 200px;
 float:left;
 box-shadow: 10px 10px 40px black;
 border-left: 7px solid rgba(255, 0, 76, 0.74) ;
